@@ -46,19 +46,8 @@ class ServicioPeliculas:
 if __name__ == '__main__':
     print("=== Testing listar_peliculas method ===\n")
     
-    # Create service instance
-    servicio = ServicioPeliculas()
-
-    #pelicula1 = Pelicula('Inception', 'Christopher Nolan', 2010)
-    #pelicula2 = Pelicula('Interstellar', 'Christopher Nolan', 2014)
-    #pelicula3 = Pelicula('Pulp Fiction', 'Quentin Tarantino', 1994)
-
-    #servicio.agregar_pelicula(pelicula1)
-    #ervicio.agregar_pelicula(pelicula2)
-    #ervicio.agregar_pelicula(pelicula3)
-    
-    # --- Uso del DAO en el programa principal ---
-    
+   
+    servicio = ServicioPeliculas() 
     peliculas  = servicio.listar_peliculas()
 
    
