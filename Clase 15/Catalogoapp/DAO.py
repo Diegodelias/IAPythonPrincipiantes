@@ -72,7 +72,6 @@ class PeliculaDAO:
         except sqlite3.Error as error:
             print(f"Error al obtener películas: {error}")
             input("Presiona Enter para salir...")
-        self.conn.close()
         exit(1)
 
   

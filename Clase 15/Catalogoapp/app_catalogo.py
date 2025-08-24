@@ -36,6 +36,7 @@ class AppCatalogo:
                     print("Catálogo de películas eliminado.\n")
                 elif opcion == 4:
                     print("Saliendo del catálogo...")
+                    self.servicio_peliculas.dao.cerrar_conexion()
                     break
                 else:
                     print("Opción no válida. Intente de nuevo.\n")
