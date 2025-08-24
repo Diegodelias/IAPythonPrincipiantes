@@ -1,0 +1,115 @@
+[
+    {
+        "titulo": "APP prar guardar ideas",
+        "descripcion": "app guardar dias posibles proyectos a desarrollar",
+        "categoria": "Personal",
+        "fecha_creacion": "2025-08-11 19:56:12",
+        "estado": "Nueva",
+        "tags": [
+            "personal",
+            "productividad"
+        ],
+        "recursos": [],
+        "notas": ""
+    },
+    {
+        "titulo": "App de Meditación con IA",
+        "descripcion": "Una aplicación móvil que usa inteligencia artificial para generar guiones de meditación personalizados basados en el estado de ánimo y los objetivos del usuario. Incluye seguimiento de progreso y sonidos relajantes.",
+        "categoria": "Trabajo",
+        "fecha_creacion": "2025-08-11 20:40:21",
+        "estado": "Nueva",
+        "tags": [
+            "mobile"
+        ],
+        "recursos": [
+            "Parece que tienes una interfaz de usuario para un \"Idea Manager\". Aquí te muestro cómo podrías llenarla de manera lógica, paso a paso, usando un ejemplo de una idea de proyecto.",
+            "---",
+            "### **1. Agregar Idea** 💡",
+            "Esta es la sección que tienes en pantalla. La idea es ingresar toda la información relevante sobre tu nuevo proyecto.",
+            "* **Título de la idea**: Aquí pondrías un nombre descriptivo y conciso para tu idea.",
+            "* *Ejemplo*: \"App de Meditación con IA\".",
+            "* **Descripción**: Describe tu idea en más detalle. Explica de qué trata, qué problema resuelve o qué funcionalidades principales tendría.",
+            "* *Ejemplo*: \"Una aplicación móvil que usa inteligencia artificial para generar guiones de meditación personalizados basados en el estado de ánimo y los objetivos del usuario. Incluye seguimiento de progreso y sonidos relajantes.\"",
+            "* **Categoría**: Elige una categoría que se ajuste a tu idea. Esto te ayudará a organizar tus proyectos.",
+            "* *Ejemplo*: \"Software\" o \"Tecnología\".",
+            "* **Estado**: Define en qué etapa se encuentra la idea. Al ser nueva, probablemente la dejarías como \"Nueva\".",
+            "* *Ejemplo*: \"Nueva\".",
+            "* **Tags (separados por comas)**: Usa etiquetas para facilitar la búsqueda y el filtrado.",
+            "* *Ejemplo*: \"IA, Meditación, App, IA generativa, Bienestar\".",
+            "* **Recursos (uno por línea)**: Agrega enlaces, archivos o cualquier recurso que te ayude con la idea.",
+            "* *Ejemplo*:",
+            "* `https://www.ejemplo.com/estudio-mercado-meditacion`",
+            "* `https://www.ejemplo.com/repo-ia-meditacion`",
+            "* **Notas adicionales**: Cualquier otro pensamiento o recordatorio que tengas sobre la idea.",
+            "* *Ejemplo*: \"Investigar competidores como Calm y Headspace. Posible integración con Apple Health.\"",
+            "---",
+            "### **2. Guardar y Ver Detalles** ✅",
+            "Una vez que llenes todos los campos, haz clic en **\"Guardar Idea\"**. La aplicación debería mostrarte un mensaje de **\"Resultado\"** confirmando que se guardó correctamente.",
+            "Después, puedes ir a la pestaña **\"Ver detalles de idea\"** para revisar la información que ingresaste y ver si todo está correcto. Esta sección probablemente te permitirá buscar tu idea por título o tags.",
+            "---",
+            "### **3. Otras Acciones** ⚙️",
+            "Las demás pestañas te permiten gestionar tu idea a lo largo del tiempo:",
+            "* **Actualizar Idea**: Podrías usar esta pestaña para cambiar el **estado** de tu idea de \"Nueva\" a \"En progreso\" o para añadir más **recursos**.",
+            "* **Eliminar**: Te permite borrar una idea si ya no es relevante.",
+            "* **Estadísticas**: Esta sección podría mostrar gráficos o conteos de tus ideas, como \"número de ideas por categoría\" o \"progreso de ideas por estado\"."
+        ],
+        "notas": ""
+    },
+    {
+        "titulo": "App de Meditación con IA",
+        "descripcion": "Una aplicación móvil que usa inteligencia artificial para generar guiones de meditación personalizados basados en el estado de ánimo y los objetivos del usuario. Incluye seguimiento de progreso y sonidos relajantes.",
+        "categoria": "Trabajo",
+        "fecha_creacion": "2025-08-11 20:40:21",
+        "estado": "Nueva",
+        "tags": [
+            "mobile"
+        ],
+        "recursos": [
+            "Parece que tienes una interfaz de usuario para un \"Idea Manager\". Aquí te muestro cómo podrías llenarla de manera lógica, paso a paso, usando un ejemplo de una idea de proyecto.",
+            "---",
+            "### **1. Agregar Idea** 💡",
+            "Esta es la sección que tienes en pantalla. La idea es ingresar toda la información relevante sobre tu nuevo proyecto.",
+            "* **Título de la idea**: Aquí pondrías un nombre descriptivo y conciso para tu idea.",
+            "* *Ejemplo*: \"App de Meditación con IA\".",
+            "* **Descripción**: Describe tu idea en más detalle. Explica de qué trata, qué problema resuelve o qué funcionalidades principales tendría.",
+            "* *Ejemplo*: \"Una aplicación móvil que usa inteligencia artificial para generar guiones de meditación personalizados basados en el estado de ánimo y los objetivos del usuario. Incluye seguimiento de progreso y sonidos relajantes.\"",
+            "* **Categoría**: Elige una categoría que se ajuste a tu idea. Esto te ayudará a organizar tus proyectos.",
+            "* *Ejemplo*: \"Software\" o \"Tecnología\".",
+            "* **Estado**: Define en qué etapa se encuentra la idea. Al ser nueva, probablemente la dejarías como \"Nueva\".",
+            "* *Ejemplo*: \"Nueva\".",
+            "* **Tags (separados por comas)**: Usa etiquetas para facilitar la búsqueda y el filtrado.",
+            "* *Ejemplo*: \"IA, Meditación, App, IA generativa, Bienestar\".",
+            "* **Recursos (uno por línea)**: Agrega enlaces, archivos o cualquier recurso que te ayude con la idea.",
+            "* *Ejemplo*:",
+            "* `https://www.ejemplo.com/estudio-mercado-meditacion`",
+            "* `https://www.ejemplo.com/repo-ia-meditacion`",
+            "* **Notas adicionales**: Cualquier otro pensamiento o recordatorio que tengas sobre la idea.",
+            "* *Ejemplo*: \"Investigar competidores como Calm y Headspace. Posible integración con Apple Health.\"",
+            "---",
+            "### **2. Guardar y Ver Detalles** ✅",
+            "Una vez que llenes todos los campos, haz clic en **\"Guardar Idea\"**. La aplicación debería mostrarte un mensaje de **\"Resultado\"** confirmando que se guardó correctamente.",
+            "Después, puedes ir a la pestaña **\"Ver detalles de idea\"** para revisar la información que ingresaste y ver si todo está correcto. Esta sección probablemente te permitirá buscar tu idea por título o tags.",
+            "---",
+            "### **3. Otras Acciones** ⚙️",
+            "Las demás pestañas te permiten gestionar tu idea a lo largo del tiempo:",
+            "* **Actualizar Idea**: Podrías usar esta pestaña para cambiar el **estado** de tu idea de \"Nueva\" a \"En progreso\" o para añadir más **recursos**.",
+            "* **Eliminar**: Te permite borrar una idea si ya no es relevante.",
+            "* **Estadísticas**: Esta sección podría mostrar gráficos o conteos de tus ideas, como \"número de ideas por categoría\" o \"progreso de ideas por estado\"."
+        ],
+        "notas": ""
+    },
+    {
+        "titulo": "todo list",
+        "descripcion": "todo list",
+        "categoria": "Trabajo",
+        "fecha_creacion": "2025-08-11 21:05:10",
+        "estado": "Nueva",
+        "tags": [
+            "prueba1"
+        ],
+        "recursos": [
+            "no tiene"
+        ],
+        "notas": "[2025-08-11 21:05] no tiene\n"
+    }
+]

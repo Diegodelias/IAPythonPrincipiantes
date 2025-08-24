@@ -1,0 +1,16 @@
+[
+    {
+        "titulo": "titulo idea",
+        "descripcion": "una idea ",
+        "categoria": "Personal",
+        "fecha_creacion": "2025-08-17 18:55:20",
+        "estado": "Completada",
+        "tags": [
+            "dsa"
+        ],
+        "recursos": [
+            "dsad"
+        ],
+        "notas": "[2025-08-17 18:55] dasd\n"
+    }
+]
